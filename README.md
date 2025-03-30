@@ -28,10 +28,9 @@ Engaging with **Codeforces** regularly helps in improving the ability to solve r
 ---
 
 ## 🎯 My DSA & CP Goals
-✅ Solve **X+** problems on Codeforces 🔥  
+✅ Solve **All types** of problems on Codeforces 🔥  
 ✅ Achieve **higher rating** in contests 🏆  
 ✅ Master **Dynamic Programming, Graphs, and Advanced Data Structures** 📈  
-✅ Contribute to **open-source projects** and help the community 🤝  
 
 I believe in **dedicated learning** and **consistent problem-solving** to level up my skills in DSA and competitive programming. Let's **code, learn, and grow** together! 🚀
 
