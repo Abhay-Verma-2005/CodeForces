@@ -8,7 +8,7 @@ public class CF_2020A {
             long n=scanner.nextInt();
             long k=scanner.nextInt();
             if (k == 1 || k > n) {
-                System.out.println(n);
+                System.out.println(n); 
                 continue;
             }
             int ans = 0;
