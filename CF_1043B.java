@@ -15,8 +15,8 @@ public class CF_1043B {
                 System.out.println();
             }
         }
-        
     }
+    
     public static void check(long n, long m){
             long k=(long)Math.pow(10,m)+1;
             if(k>n) return;
@@ -35,3 +35,4 @@ public class CF_1043B {
         return ans+count(n, m+1);
     }
 }
+
